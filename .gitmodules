@@ -1,0 +1,6 @@
+[submodule "lib/msgpack-c"]
+	path = lib/msgpack-c
+	url = https://github.com/msgpack/msgpack-c.git
+[submodule "lib/raft"]
+	path = lib/raft
+	url = https://github.com/willemt/raft.git

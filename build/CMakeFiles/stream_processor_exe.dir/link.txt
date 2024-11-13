@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -O3 CMakeFiles/stream_processor_exe.dir/src/main.c.o -o bin/stream_processor  -Wl,-rpath,/home/watchful/projects/c_projects/Crept/build/lib: lib/libstream_processor.so 

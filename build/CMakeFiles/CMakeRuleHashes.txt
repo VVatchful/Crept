@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+42b8bd397379b4e33144e8e9240d4cbb lib/CMakeFiles/msgpack_external
+51e9777c18b692966ee429cf1527c296 lib/CMakeFiles/msgpack_external-complete
+27c590db1d8132b763630769cfdb68a4 msgpack/src/msgpack_external-stamp/msgpack_external-build
+a538cf056fc1dcbd4a00d0f7e7514a95 msgpack/src/msgpack_external-stamp/msgpack_external-configure
+2f80d8d1b6da38090c1e14d4556eed20 msgpack/src/msgpack_external-stamp/msgpack_external-download
+95f641c6c424f439d561d98b27600722 msgpack/src/msgpack_external-stamp/msgpack_external-install
+6038e35441b6cbb166a12568f2959622 msgpack/src/msgpack_external-stamp/msgpack_external-mkdir
+bd74591b39768d511185e51b1bf1b78e msgpack/src/msgpack_external-stamp/msgpack_external-patch
+79c6b047cbb880076aa640dae28dfcdc msgpack/src/msgpack_external-stamp/msgpack_external-update
